@@ -1,0 +1,4 @@
+﻿  cinemaMain.cpp
+C:\Users\ALI\Desktop\Cinema\cinemaMain\cinemaMain\cinemaMain.cpp(16,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\ALI\Desktop\Cinema\cinemaMain\cinemaMain\cinemaMain.cpp(16,24): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  cinemaMain.vcxproj -> C:\Users\ALI\Desktop\Cinema\cinemaMain\Debug\cinemaMain.exe
